@@ -42,7 +42,7 @@
 
 ![image](https://user-images.githubusercontent.com/83326493/177072051-09bd3da2-2bb9-42bd-b121-b0c8b71c6269.png)
 
-#How To Use
+# How To Use
 
 1.确保ZigBee、ESP32、树莓派正常运行程序，能够接受到传感器数据并将数据通过主题订阅，以消息的形式发送到MQTT服务器；
 
