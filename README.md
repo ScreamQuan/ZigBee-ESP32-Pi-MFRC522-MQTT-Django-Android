@@ -54,3 +54,8 @@
  
 3.启动安卓APP，观察现象。
 
+# Reference contribution
+
+SPI-PY：https://github.com/lthiery/SPI-Py.git
+
+MFRC522：https://github.com/kangaroo711/MFRC522-python.git
