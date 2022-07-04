@@ -39,6 +39,6 @@
 
 在应用层，安卓移动设备上可以通过APP开启MQTT传输订阅主题，能实时获取到底层传感器数据，同时可以在APP上通过MQTT传输发布设定的温度阈值或者拉响蜂鸣器警报消息。除此之外，还可以通过http向web服务器发送GET和POST请求，获取到存储于MySQL数据库中的机房环境历史数据以及机房管理员的维护检查机房设备的历史记录。  
 
-![image](https://user-images.githubusercontent.com/83326493/177072051-09bd3da2-2bb9-42bd-b121-b0c8b71c6269.png)
+                           ![image](https://user-images.githubusercontent.com/83326493/177072051-09bd3da2-2bb9-42bd-b121-b0c8b71c6269.png)
 
 
