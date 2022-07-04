@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NavigationView</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_title2">Administrator</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_subtitle2">广州软件学院</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="isbn">图书编号</string>
+    <string name="bookname">图书名称</string>
+    <string name="publishertime">出版时间</string>
+    <string name="picture">图书图片</string>
+    <string name="save">保存</string>
+    <string name="clear">清空</string>
+    <string name="exit">退出</string>
+
+    <string name="home">主页</string>
+    <string name="info">个人信息</string>
+    <string name="history">历史</string>
+    <string name="show">更多</string>
+</resources>

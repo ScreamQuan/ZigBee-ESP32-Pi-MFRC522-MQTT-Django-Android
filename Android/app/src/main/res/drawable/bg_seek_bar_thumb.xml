@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:width="10dp" android:height="10dp">
+        <!--图形形状-->
+        <shape android:shape="oval">
+            <!--图形内圈颜色-->
+            <solid android:color="#2196F3" />
+            <!--图形大小设置-->
+            <size android:height="13dp" android:width="13dp"/>
+            <!--外环设置-->
+            <stroke android:width="0dp" android:color="#00000000"/>
+        </shape>
+    </item>
+</selector>

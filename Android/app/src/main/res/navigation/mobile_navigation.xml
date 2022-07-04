@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.navigationview.ui.home.HomeFragment"
+        android:label=" "
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
+            app:destination="@id/nav_home_second" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_home_second"
+        android:name="com.example.navigationview.ui.home.HomeSecondFragment"
+        android:label="@string/home_second"
+        tools:layout="@layout/fragment_home_second">
+        <action
+            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
+            app:destination="@id/nav_home" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.navigationview.ui.homepage.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.navigationview.ui.rfidshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_recyclerview"
+        android:name="com.example.navigationview.ui.sensorview.RecyclerViewFragment"
+        android:label="fragment_recyclerview"
+        tools:layout="@layout/fragment_recyclerview" />
+    <fragment
+        android:id="@+id/nav_viewpaper"
+        android:name="com.example.navigationview.ui.viewpaper.ViewPaperFragment"
+        android:label="fragment_viewpaper"
+        tools:layout="@layout/fragment_viewpaper" />
+    <activity
+        android:id="@+id/nav_show"
+        android:name="com.example.navigationview.SensorActivity"
+        android:label="@string/show"
+        tools:layout="@layout/sensor"/>
+    <fragment
+        android:id="@+id/nav_info"
+        android:name="com.example.navigationview.ui.info.InfoFragment"
+        android:label="个人信息"
+        tools:layout="@layout/fragment_info" />
+
+</navigation>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>SimpleAPIExp/LedDevice</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>211</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>18</ColumnWidth0><ColumnWidth1>1863</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29131-25986</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>SimpleAPIExp</ExpandedNode><ExpandedNode>SimpleAPIExp/App</ExpandedNode><ExpandedNode>SimpleAPIExp/HAL</ExpandedNode><ExpandedNode>SimpleAPIExp/HAL/Common</ExpandedNode><ExpandedNode>SimpleAPIExp/HAL/Include</ExpandedNode><ExpandedNode>SimpleAPIExp/HAL/Target</ExpandedNode><ExpandedNode>SimpleAPIExp/HAL/Target/CC2530EB</ExpandedNode><ExpandedNode>SimpleAPIExp/HAL/Target/CC2530EB/Config</ExpandedNode><ExpandedNode>SimpleAPIExp/HAL/Target/CC2530EB/Drivers</ExpandedNode><ExpandedNode>SimpleAPIExp/HAL/Target/CC2530EB/Drivers/hal_sleep.c</ExpandedNode><ExpandedNode>SimpleAPIExp/HAL/Target/CC2530EB/Includes</ExpandedNode><ExpandedNode>SimpleAPIExp/Tools</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-11649-26518</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-28569-97</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\ledDevice.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>3711</SelStart><SelEnd>3711</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\coordinator.c</Filename><XPos>0</XPos><YPos>96</YPos><SelStart>2675</SelStart><SelEnd>2675</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\smartHome.h</Filename><XPos>0</XPos><YPos>17</YPos><SelStart>587</SelStart><SelEnd>587</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\Tools\CC2530DB\f8wConfig.cfg</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\ds18b20.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>486</SelStart><SelEnd>486</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Source\ds18b20.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>102</SelStart><SelEnd>102</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\ZMain\TI2530DB\ZMain.c</Filename><XPos>0</XPos><YPos>173</YPos><SelStart>3235</SelStart><SelEnd>3235</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\include\hal_adc.h</Filename><XPos>0</XPos><YPos>62</YPos><SelStart>3343</SelStart><SelEnd>3343</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530EB\hal_types.h</Filename><XPos>0</XPos><YPos>41</YPos><SelStart>2701</SelStart><SelEnd>2714</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530EB\hal_adc.c</Filename><XPos>0</XPos><YPos>177</YPos><SelStart>5600</SelStart><SelEnd>5600</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530EB\hal_led.c</Filename><XPos>0</XPos><YPos>126</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2530EB\hal_sleep.c</Filename><XPos>0</XPos><YPos>271</YPos><SelStart>12381</SelStart><SelEnd>12381</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\include\hal_sleep.h</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>2579</SelStart><SelEnd>2579</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\ZMain\TI2530DB\OnBoard.h</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>6888</SelStart><SelEnd>6888</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-05ac1d00><key>iaridepm.enu1</key></Toolbar-05ac1d00></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>450</Bottom><Right>302</Right><x>-2</x><y>-2</y><xscreen>194</xscreen><yscreen>299</yscreen><sizeHorzCX>151563</sizeHorzCX><sizeHorzCY>417015</sizeHorzCY><sizeVertCX>237500</sizeVertCX><sizeVertCY>630404</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>222</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>224</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>312413</sizeHorzCY><sizeVertCX>151563</sizeVertCX><sizeVertCY>417015</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
