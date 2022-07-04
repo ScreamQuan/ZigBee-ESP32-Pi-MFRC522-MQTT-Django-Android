@@ -39,8 +39,10 @@
 &ensp;&ensp;&ensp;&ensp;网络层中，由ESP32和树莓派将获取到的数据通过MQTT消息传输协议在主题发布消息到由借助EMQX搭建的MQTT服务器，同时在由Django搭建的 web服务器通过MQTT客户端订阅主题获取MQTT服务器上的数据并保存到MySQL数据库中。  
 
 &ensp;&ensp;&ensp;&ensp;在应用层，安卓移动设备上可以通过APP开启MQTT传输订阅主题，能实时获取到底层传感器数据，同时可以在APP上通过MQTT传输发布设定的温度阈值或者拉响蜂鸣器警报消息。除此之外，还可以通过http向web服务器发送GET和POST请求，获取到存储于MySQL数据库中的机房环境历史数据以及机房管理员的维护检查机房设备的历史记录。  
+<div align=center>
+<img src="https://user-images.githubusercontent.com/83326493/177072051-09bd3da2-2bb9-42bd-b121-b0c8b71c6269.png">
+</div>
 
-![image](https://user-images.githubusercontent.com/83326493/177072051-09bd3da2-2bb9-42bd-b121-b0c8b71c6269.png)
 
 # How To Use
 
