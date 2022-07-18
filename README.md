@@ -3,7 +3,7 @@
 &ensp;&ensp;&ensp;&ensp;该项目针对大型机房的物理运行环境状况、设备运行情况、人员活动情况以及消防问题等危机无法得到及时发现和处理，很难有效地提前预见、防范和避免的问题，实现对机房环境以及设备维修记录的监控。
 
 
-# System Block diagram
+# System Block Diagram
 
 &ensp;&ensp;&ensp;&ensp;该系统总体设计主要通过感知层、网络层和应用层三部分实现，其中硬件设计主要在感知层，软件设计在三层体系中均有体现，主要是在应用层中进行设计。  
 
@@ -56,7 +56,7 @@
  
 3.启动安卓APP，观察现象。
 
-# Reference contribution
+# Reference Contribution
 
 SPI-PY：https://github.com/lthiery/SPI-Py.git
 
