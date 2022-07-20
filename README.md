@@ -1,3 +1,6 @@
+# Forword 
+&ensp;&ensp;&ensp;&ensp;结合ZigBee，ESP32，Pi，MFRC522，MQTT，Django与Android的已学相关知识，综合运用实现一个关于物联网项目设计。
+
 # Monitoring-System-of-Computer-Lab
 
 &ensp;&ensp;&ensp;&ensp;该项目针对大型机房的物理运行环境状况、设备运行情况、人员活动情况以及消防问题等危机无法得到及时发现和处理，很难有效地提前预见、防范和避免的问题，实现对机房环境以及设备维修记录的监控。
